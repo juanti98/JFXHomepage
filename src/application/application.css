@@ -1,7 +1,7 @@
 .homeBTNS {
-    -fx-background-color:  #04afff;
+    -fx-background-color:  #ff9600;
 }
 
 .homeBTNS :hover {
-    -fx-background-color: #ff895e;
+    -fx-background-color: #ff0000;
 }
