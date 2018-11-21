@@ -1,0 +1,7 @@
+.homeBTNS {
+    -fx-background-color:  #04afff;
+}
+
+.homeBTNS :hover {
+    -fx-background-color: #ff895e;
+}
